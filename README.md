@@ -1,2 +1,3 @@
 # automateWPython
-for testing purposes
+For testing purposes and leveraging python on AWS
+ACG Course
